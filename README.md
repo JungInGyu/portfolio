@@ -1,5 +1,4 @@
-# 한정수 포트폴리오
->캐치 프레이즈
+# 정인규 포트폴리오
 </br>
 
 ## :pushpin: Intro
@@ -8,41 +7,38 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: rhep0828@gmail.com
-- 블로그: https://ryan-han.com
-- 깃헙: https://github.com/integerous
+- 이메일: dltnswn20@gmail.com
+- 깃헙: https://github.com/JungInGyu
 
 </br>
 
 ## :pushpin: Projects
 ### 1. [goQuality](https://github.com/Integerous/goQuality)
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
->개발 기간: 2019.2.18 ~ 2019.4.5  
+>경복대학교 창업아이디어 경진대회(금상)/수도권·강원권 전문대학연합  창업아이디어 경진대회 (혁신상)
+>                                                                                  (팀 프로젝트)  
+>개발 기간: 2022.10.28 ~ 2022.11.24  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>arduino  
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 ---
 
 ### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+>Linc3.0/시소아이티 기상청API 활용한 온습도 정보 수집 및 분석 프로젝트   (팀 프로젝트)  
+>개발 기간: 2022.12.01 ~ 2023.02.28  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Centos7 / Grafana / InfluxDB / Python
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 ---
 
 ### 3. [세 번째 프로젝트]()
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+>캡스톤디자인  (팀 프로젝트)  
+>개발 기간: 2023.04.18 ~ 2023.11  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Centos7 / PHP / Mysql / arduino / android-studio
 >  
 >[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
